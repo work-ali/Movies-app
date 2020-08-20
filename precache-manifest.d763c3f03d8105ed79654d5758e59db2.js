@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0a31662f745b3ae0b24b06ef44ea328",
+    "revision": "f2798b77f7aefda6e820bd8c9d61369b",
     "url": "https://work-ali.github.io/Movies-app/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://work-ali.github.io/Movies-app/static/js/2.4fb504f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b62a14dce9c5c94fe4eb",
-    "url": "https://work-ali.github.io/Movies-app/static/js/main.044f5288.chunk.js"
+    "revision": "b427fa5b396a782a862a",
+    "url": "https://work-ali.github.io/Movies-app/static/js/main.5ace8238.chunk.js"
   },
   {
     "revision": "fa1e46f34983e5d99e81",
