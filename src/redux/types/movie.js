@@ -1,0 +1,5 @@
+module.exports = {
+    REQUEST: "MOVIE_REQUEST",
+    SUCCESS: "MOVIE_SUCCESS",
+    FAILURE: "MOVIE_FAILURE",
+};
