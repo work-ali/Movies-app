@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://work-ali.github.io/Movies-app/static/js/main.5ace8238.chunk.js",
-    "main.js.map": "https://work-ali.github.io/Movies-app/static/js/main.5ace8238.chunk.js.map",
+    "main.js": "https://work-ali.github.io/Movies-app/static/js/main.887c154e.chunk.js",
+    "main.js.map": "https://work-ali.github.io/Movies-app/static/js/main.887c154e.chunk.js.map",
     "runtime-main.js": "https://work-ali.github.io/Movies-app/static/js/runtime-main.213cbcd9.js",
     "runtime-main.js.map": "https://work-ali.github.io/Movies-app/static/js/runtime-main.213cbcd9.js.map",
     "static/js/2.4fb504f5.chunk.js": "https://work-ali.github.io/Movies-app/static/js/2.4fb504f5.chunk.js",
     "static/js/2.4fb504f5.chunk.js.map": "https://work-ali.github.io/Movies-app/static/js/2.4fb504f5.chunk.js.map",
     "index.html": "https://work-ali.github.io/Movies-app/index.html",
-    "precache-manifest.d763c3f03d8105ed79654d5758e59db2.js": "https://work-ali.github.io/Movies-app/precache-manifest.d763c3f03d8105ed79654d5758e59db2.js",
+    "precache-manifest.c935a40c271ffaf328cb1d040712efd1.js": "https://work-ali.github.io/Movies-app/precache-manifest.c935a40c271ffaf328cb1d040712efd1.js",
     "service-worker.js": "https://work-ali.github.io/Movies-app/service-worker.js",
     "static/js/2.4fb504f5.chunk.js.LICENSE.txt": "https://work-ali.github.io/Movies-app/static/js/2.4fb504f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.213cbcd9.js",
     "static/js/2.4fb504f5.chunk.js",
-    "static/js/main.5ace8238.chunk.js"
+    "static/js/main.887c154e.chunk.js"
   ]
 }
